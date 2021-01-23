@@ -1,2 +1,3 @@
 # Refresher
-To refresh my knowledge and understanding of git
+
+To refresh and expand my knowledge and understanding of git 
